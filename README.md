@@ -1,11 +1,11 @@
 <div align="center">
   
-  <!-- 1. DYNAMIC TYPING HEADER -->
+  <!-- 1. FIXED TYPING HEADER (Wider width to show full text) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E91E5&center=true&vCenter=true&width=600&lines=Hi,+I'm+Feysel+Mifta;Fourth+Year+Software+Engineering+Student;Full+Stack+Developer;Web3+%26+Blockchain+Innovator;Project+Manager;Based+in+Ethiopia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E91E5&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Feysel+Mifta;4th+Year+Software+Engineering+Student;Full+Stack+Developer;Web3+%26+Blockchain+Innovator;Project+Manager;Based+in+Ethiopia" alt="Typing SVG" />
   </a>
 
-  <!-- 2. SOCIALS & PORTFOLIO (New Links Added) -->
+  <!-- 2. SOCIALS & PORTFOLIO -->
   <p>
     <a href="https://feysel-mifta.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-708090?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
@@ -30,13 +30,13 @@
 
 ### 👨‍💻 About Me
 
-I am a **4th Year Software Engineering Student** based in **Addis Ababa, Ethiopia** 🇪🇹.
+I am a **Software Engineering Student** based in **Addis Ababa, Ethiopia** 🇪🇹.
 
 I stand at the intersection of **academic rigor** and **modern self-taught agility**. While pursuing my engineering degree, I have aggressively expanded my skill set through the comprehensive **Dr. Angela Yu Full Stack Bootcamp**, mastering the MERN stack, and diving deep into Web3 protocols (ICP). 
 
 Beyond coding, I am trained in **Project Management**, using tools like **Jira** and **Slack** to lead teams and deliver structured software solutions. My goal is to build scalable, decentralized applications that solve real-world problems in Africa and beyond.
 
-- 🔭 I’m currently working on **Full Stack Web3 Applications**.
+- 🔭 I’m currently working on **Full Stack Web Applications**.
 - 🌱 I’m currently learning **Advanced System Architecture & Cloud DevOps**.
 - ⚡ **Fun fact:** I speak Java, Python, and C++ as fluently as I speak Amharic and English.
 
@@ -86,8 +86,9 @@ Beyond coding, I am trained in **Project Management**, using tools like **Jira**
 ### 🏆 GitHub Achievements
 
 <div align="center">
+  <!-- Trophies (Simplified theme to prevent errors) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=feysel2003&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=feysel2003&theme=flat&no-frame=true&margin-w=15" alt="trophy" />
   </a>
 </div>
 
@@ -96,18 +97,17 @@ Beyond coding, I am trained in **Project Management**, using tools like **Jira**
 ### 📊 Coding Activity
 
 <div align="center">
-  <!-- Stats Card: Counts PRIVATE -->
-  <img src="https://github-readme-stats.vercel.app/api?username=feysel2003&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats" />
+  <!-- Stats Card (Removed 'count_private' to fix the broken image) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=feysel2003&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
   
-  <!-- Languages: Shows what you code in most -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feysel2003&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages" />
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feysel2003&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages" />
 </div>
 
 <div align="center">
-  <!-- Streak: Shows your daily commitment -->
+  <!-- Streak Stats (This is the most reliable one) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=feysel2003&theme=radical&hide_border=true" alt="streak" />
 </div>
-
 ---
 
 <div align="center">
