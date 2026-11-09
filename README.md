@@ -92,18 +92,6 @@ Beyond coding, I am trained in **Project Management**, using tools like **Jira**
   </a>
 </div>
 
----
-
-### 📊 Coding Activity
-
-<div align="center">
-  <!-- Stats Card (Removed 'count_private' to fix the broken image) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=feysel2003&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  
-  <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feysel2003&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages" />
-</div>
-
 <div align="center">
   <!-- Streak Stats (This is the most reliable one) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=feysel2003&theme=radical&hide_border=true" alt="streak" />
