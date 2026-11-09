@@ -93,11 +93,5 @@ Beyond coding, I am trained in **Project Management**, using tools like **Jira**
 </div>
 
 <div align="center">
-  <!-- Streak Stats (This is the most reliable one) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feysel2003&theme=radical&hide_border=true" alt="streak" />
-</div>
----
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=feysel2003&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
